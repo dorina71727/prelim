@@ -174,7 +174,7 @@ a:hover, a:active {
     -webkit-border-radius: 5px;
     margin-left: 1%;
     margin-bottom: 1%;
-    padding: 1.6% 3%;
+    padding: 1.6% 3%;   
  }
   .mainFooter{
      width: 100%;
@@ -192,3 +192,16 @@ a:hover, a:active {
        margin: 10px auto;
        color: #FFF;
    }
+ 
+ /*CSS FOR THE ABOUT PAGE*/
+ 
+ .aboutcontent{
+     width: 98%;
+     float: left;
+     background-color: #FFF;
+     border-radius: 5px;
+     -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    padding: 1% 1%;
+    margin-bottom: 1%;
+ }
